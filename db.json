@@ -1,5 +1,23 @@
 {
-  "cq:PageContent": [
+  "type=cq:PageContent": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "path=/content/dam/rbb&type=dam:AssetContent": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "type=cq:PageContent/apps/cq5fwk/templates/video": [
+    {
+      "id": 1,
+      "title": "test"
+    }
+  ],
+  "type=cq:PageContent/apps/cq5fwk/templates/audio": [
     {
       "id": 1,
       "title": "test"
