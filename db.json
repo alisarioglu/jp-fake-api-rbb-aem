@@ -5,7 +5,7 @@
       "title": "test"
     }
   ],
-  "path=/content/dam/rbb&type=dam:AssetContent": [
+  "path/content/dam/rbb&typedam:AssetContent": [
     {
       "id": 1,
       "title": "test"
