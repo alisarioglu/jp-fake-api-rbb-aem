@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "cq:PageContent": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "test"
     }
   ],
   "profile": {
