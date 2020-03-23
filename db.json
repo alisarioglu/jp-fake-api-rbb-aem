@@ -1,5 +1,5 @@
 {
-  "path=/content/dam/rbb&type=dam:AssetContent": [
+  "AssetContent": [
     { "id": 0, "title": "test0" },
     { "id": 1, "title": "test1" },
     { "id": 2, "title": "test2" },
@@ -11,7 +11,7 @@
     { "id": 8, "title": "test8" },
     { "id": 9, "title": "test9" }
   ],
-  "type=cq:PageContent/apps/cq5fwk/templates/video": [
+  "video": [
     { "id": 0, "title": "test0" },
     { "id": 1, "title": "test1" },
     { "id": 2, "title": "test2" },
@@ -23,7 +23,7 @@
     { "id": 8, "title": "test8" },
     { "id": 9, "title": "test9" }
   ],
-  "type=cq:PageContent/apps/cq5fwk/templates/audio": [
+  "audio": [
     { "id": 0, "title": "test0" },
     { "id": 1, "title": "test1" },
     { "id": 2, "title": "test2" },
